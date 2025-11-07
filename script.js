@@ -1,4 +1,4 @@
-const apiKey = "b8..............745bb86646b4e..........";
+const apiKey = "b8..............74..........4e..........";
 
 async function getNews() {
   const query = document.getElementById("searchInput").value;
